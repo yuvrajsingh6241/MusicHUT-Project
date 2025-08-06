@@ -1,5 +1,4 @@
 # MusicHUT-Project
-# Music-HUT
 
 Music HUT is web app developed using flask and it uses the jiosaavn api for its music source.
 
